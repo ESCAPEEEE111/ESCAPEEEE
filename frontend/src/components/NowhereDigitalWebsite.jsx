@@ -3,6 +3,8 @@ import { Menu, X, ArrowRight, Play, Phone, Mail, MapPin, Star, CheckCircle, Zap,
 import { services, specializedServices, testimonials, stats, partnerBrands, navigationItems, contactInfo } from '../data/mock';
 import MatrixChatSystem from './MatrixChatSystem';
 import PricingShowcase from './PricingShowcase';
+import UltimatePlatformDashboard from './UltimatePlatformDashboard';
+import AIProblemSolver from './AIProblemSolver';
 import MobileMatrixOptimizer, { MobileMatrixText } from './MobileMatrixOptimizer';
 import TerminalWindow from './TerminalWindow';
 import { Button } from './ui/button';

@@ -341,15 +341,7 @@ code {
   --radius: 0.5rem;
 }
 
-@layer base {
-  * {
-    border-color: hsl(var(--border));
-    }
-  body {
-    background-color: hsl(var(--background));
-    color: hsl(var(--foreground));
-    }
-}
+/* Matrix theme styling applied via components */
 
 /* Matrix-specific utility classes */
 @layer utilities {

@@ -346,6 +346,12 @@ const NowhereDigitalWebsite = () => {
         </div>
       </section>
 
+      {/* Ultimate Platform Dashboard */}
+      <UltimatePlatformDashboard />
+
+      {/* AI Problem Solver */}
+      <AIProblemSolver />
+
       {/* Pricing Showcase */}
       <PricingShowcase />
 
